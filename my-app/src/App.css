@@ -6,7 +6,7 @@
   height: 80vh;
 }
 
-.reset-button{
+.reset-button {
   margin: 2% 20%;
   border: 2px solid gray;
   background-color: #fff;
@@ -15,7 +15,7 @@
   padding: 25px 90px;
   display: flex;
 }
-.reset-button:hover{
+.reset-button:hover {
   background-color: grey;
   color: #fff;
 }
